@@ -1,4 +1,4 @@
-# esilv-team
+# ESILV A4 Project: SkyPortal for GRANDMA
 
 Hey everyone!
 In the project section, you'll find a "CANVA" where you can create tickets, and sort them in the "to do", "working on it", "stuck" and "done!" columns.
