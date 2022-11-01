@@ -20,3 +20,19 @@ When you are done installing SkyPortal, move it to the Review column. During the
 Good luck! :rocket: :rocket: :rocket:
 
 PS: I've created a first issue. Please leave a `reaction` (they are basically emojis) on it to show me that you joined the GitHub repo and read the instructions :)
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
